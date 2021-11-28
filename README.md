@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
  
 
-  <img align="right" alt="GIF" height="250px" src="https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif" />
+  <img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif" />
 
 **About Me!**
 
