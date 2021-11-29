@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 - 👨🏽‍💻 An Under-graduate final year CSE student at NIT Bhopal
 - 🌱 Ex-Summer analyst at Goldman Sachs
 - 📫 Microsoft Engage Mentee
-- 💬 Ask me about anything, I love to answer!
+- 💬 Neat-freak!
 - 📫 Email me at [divyatembhurne1107@gmail.com](mailto:divyatembhurne1107@gmail.com).
 
 <br/><br/><br/><br/>
