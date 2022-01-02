@@ -168,6 +168,6 @@ Here are some ideas to get you started:
 </p>
 <br/><br/><br/><br/>
 <img src="https://github-readme-stats.vercel.app/api?username=diivyya&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Divya's GitHub Stats">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diivyya&count_private=true&theme=radical" alt="DivyaTembhurne" />
+<!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diivyya&count_private=true&theme=radical" alt="DivyaTembhurne" /> -->
 
 
